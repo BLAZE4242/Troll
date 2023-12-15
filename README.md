@@ -14,7 +14,7 @@ woah lets you wait for the user to press anything because its like woah slow dow
 
 kewlour followed by the spelling (using the trlol logic) of a colour will change the text colour. You can use any of c#'s Console.ConsoleColor's and yes its case sensitive
 
-Example: kewlour hehe troll troll troll troll troll troll troll troll troll troll troll troll troll troll turns the colour to red (it spells "Red")
+Example: kewlour hehe troll troll troll troll troll troll troll troll troll troll troll troll troll troll troll troll troll troll lol troll troll troll troll troll lol troll troll troll troll turns the colour to red (it spells "Red")
 
 
 
